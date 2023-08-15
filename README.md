@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadshoyaib
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 muhammadshoyaib/muhammadshoyaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
